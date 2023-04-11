@@ -1,3 +1,2 @@
 # world_sql_data
-基于項目需要，自己整理的世界&lt;省/市/区>地域SQL数据，三级数据。
-对比全网来看，应该是当时最齐全的Sql数据
+Province/city/district>Regional SQL level 3 data.
